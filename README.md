@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a library to mess up clean data. For learning purposes!
 - 🌱 I’m currently learning how to efficiently get data from Snowflake.
-- ⚡ Fun fact: Opossums cannot carry rabies. (Didn't say it would be a fun fact about me)
+- ⚡ Fun fact: Opossums rarely carry rabies. (Didn't say it would be a fun fact about me)
 
 <!--
 **megpay/megpay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
