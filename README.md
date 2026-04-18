@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Megan, a data scientist and programmer. 
 
-- 🔭 I’m currently working on a library to mess up clean data. For learning purposes!
-- 🌱 I’m currently learning how to efficiently get data from Snowflake.
+- 🔭 Life has been busy.
+- 🌱 I’m currently learning something.
 - ⚡ Fun fact: Opossums rarely carry rabies. (Didn't say it would be a fun fact about me)
 
 <!--
